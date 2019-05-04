@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1556918897 source:d:\system documents\desktop\faculate\oop\tema3\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+	"Mancare.h"
+	"Mancare/Ciorba.h"
+	"Mancare/FelPrincipal.h"
+	"Mancare/Desert.h"
+	"Bautura.h"
+	"Bauturi/VinVarsat.h"
+	"Bauturi/VinLaSticla.h"
+	"Bauturi/BereLaSticla.h"
+	"Bauturi/Apa.h"
+	"Client.h"
+	"Masa.h"
+
+1556955293 d:\system documents\desktop\faculate\oop\tema3\client.h
+
+1556955670 d:\system documents\desktop\faculate\oop\tema3\masa.h
+
+1556955512 d:\system documents\desktop\faculate\oop\tema3\mancare.h
+
+1556905700 d:\system documents\desktop\faculate\oop\tema3\bautura.h
+
+1556900396 d:\system documents\desktop\faculate\oop\tema3\bauturi\vinvarsat.h
+
+1556900413 d:\system documents\desktop\faculate\oop\tema3\bauturi\vinlasticla.h
+
+1556900687 d:\system documents\desktop\faculate\oop\tema3\bauturi\berelasticla.h
+
+1556901019 d:\system documents\desktop\faculate\oop\tema3\bauturi\apa.h
+
+1556903439 d:\system documents\desktop\faculate\oop\tema3\mancare\ciorba.h
+
+1556904214 d:\system documents\desktop\faculate\oop\tema3\mancare\felprincipal.h
+
+1556915793 d:\system documents\desktop\faculate\oop\tema3\mancare\desert.h
+
