@@ -10,5 +10,5 @@ public:
 
     double getPretBauturaAleasa() { return pretBauturaAleasa; }
 
-    virtual void alegeBautura() {};
+    virtual void alegeBautura() =0;
 };

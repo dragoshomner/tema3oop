@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1556918897 source:d:\system documents\desktop\faculate\oop\tema3\main.cpp
+1557921811 source:d:\system documents\desktop\faculate\oop\tema3\main.cpp
 	<iostream>
 	<string.h>
 	<vector>
@@ -14,6 +14,7 @@
 	"Bauturi/Apa.h"
 	"Client.h"
 	"Masa.h"
+	"Restaurant.h"
 
 1556955293 d:\system documents\desktop\faculate\oop\tema3\client.h
 
@@ -21,7 +22,7 @@
 
 1556955512 d:\system documents\desktop\faculate\oop\tema3\mancare.h
 
-1556905700 d:\system documents\desktop\faculate\oop\tema3\bautura.h
+1557398499 d:\system documents\desktop\faculate\oop\tema3\bautura.h
 
 1556900396 d:\system documents\desktop\faculate\oop\tema3\bauturi\vinvarsat.h
 
@@ -36,4 +37,6 @@
 1556904214 d:\system documents\desktop\faculate\oop\tema3\mancare\felprincipal.h
 
 1556915793 d:\system documents\desktop\faculate\oop\tema3\mancare\desert.h
+
+1557921906 d:\system documents\desktop\faculate\oop\tema3\restaurant.h
 
